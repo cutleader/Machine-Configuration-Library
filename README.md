@@ -10,6 +10,7 @@ CutLeader Open Edition supports nearly all types of 2D CNC cutting machines (las
 - DXF
 - PLT
 - FICEP Gemini
+- CypCut-LXD
 
 Because machine type, brands, and user requirements vary, the machine configuration and post-processor are customizable to meet wide range specific requirement.
 
