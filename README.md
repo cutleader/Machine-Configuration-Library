@@ -12,6 +12,7 @@ CutLeader Open Edition supports nearly all types of 2D CNC cutting machines (las
 - FICEP Gemini
 - CypCut-LXD
 - Foam Cut
+- AMADA LCV3015
 
 Because machine type, brands, and user requirements vary, the machine configuration and post-processor are customizable to meet wide range specific requirement.
 
