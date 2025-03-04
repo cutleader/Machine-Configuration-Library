@@ -13,6 +13,7 @@ CutLeader Open Edition supports nearly all types of 2D CNC cutting machines (las
 - CypCut-LXD
 - Foam Cut
 - AMADA LCV3015
+- Mach3_Plasma
 
 Because machine type, brands, and user requirements vary, the machine configuration and post-processor are customizable to meet wide range specific requirement.
 
